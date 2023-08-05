@@ -25,3 +25,15 @@ Mediante [👉PayPal💵](https://www.paypal.com/paypalme/ReinierTutoriales?coun
 ```
 
 * Deshabilitar AMFI.
+
+```md
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boot-args</key>
+	<string>amfi=0x80</string>
+</dict>
+</plist>
+
+```  
