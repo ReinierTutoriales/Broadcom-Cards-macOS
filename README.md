@@ -7,7 +7,7 @@ Mediante [👉PayPal💵](https://www.paypal.com/paypalme/ReinierTutoriales?coun
 
 
 ## La protección de integridad del sistema está establecida en 0x803
-* Para eso diríjase a `NVRAM / Add / 7C436110-AB2A-4BBB-A880-FE41995C9F82`.
+* Para eso diríjase a `NVRAM` - `Add` - `7C436110-AB2A-4BBB-A880-FE41995C9F82`.
   * Edite su `csr-active-config`.
   * Cambie `00000000` por `03080000`.
 
