@@ -22,3 +22,5 @@ Mediante [👉PayPal💵](https://www.paypal.com/paypalme/ReinierTutoriales?coun
 </plist>
 
 ```
+
+* Deshabilitar AMFI.
