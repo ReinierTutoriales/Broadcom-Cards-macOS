@@ -16,3 +16,32 @@ Mediante [👉PayPal💵](https://www.paypal.com/paypalme/ReinierTutoriales?coun
  * Agragar en su boot-args `amfi=0x80` .
 ## Configurar Secure Boot Model
  *  `Secure Boot Model` selecciónalo en `Disabled`
+
+
+
+
+```md
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Arch</key>
+		<string>Any</string>
+		<key>Comment</key>
+		<string>Allow IOSkywalk Downgrade</string>
+		<key>Enabled</key>
+		<false/>
+		<key>Identifier</key>
+		<string>com.apple.iokit.IOSkywalkFamily</string>
+		<key>MaxKernel</key>
+		<string></string>
+		<key>MinKernel</key>
+		<string>23.0.0</string>
+		<key>Strategy</key>
+		<string>Exclude</string>
+	</dict>
+</array>
+</plist>
+
+```
