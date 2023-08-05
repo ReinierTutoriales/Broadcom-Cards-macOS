@@ -27,4 +27,4 @@ Mediante [👉PayPal💵](https://www.paypal.com/paypalme/ReinierTutoriales?coun
 ## Deshabilitar AMFI.
  * Agragar en su boot-args `amfi=0x80` .
 ## Configurar Secure Boot Model
- *`Secure Boot Model selecciónalo en Disabled`
+ * Secure Boot Model selecciónalo en `Disabled`
