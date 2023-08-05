@@ -18,7 +18,8 @@ Mediante [👉PayPal💵](https://www.paypal.com/paypalme/ReinierTutoriales?coun
  *  `Secure Boot Model` selecciónalo en `Disabled`
 
 
-
+## El siguiente kexts debes bloquearlo 
+ * [com.apple.iokit.IOSkywalkFamily](https://github.com/dortania/OpenCore-Legacy-Patcher/blob/e21efa975c0cf228cb36e81a974bc6b4c27c7807/payloads/Config/config.plist#L1695-L1710/)
 
 ```md
 <?xml version="1.0" encoding="UTF-8"?>
