@@ -42,3 +42,5 @@
 </plist>
 
 ```
+
+## Necesitan inyectar los siguientes kexts
