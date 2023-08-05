@@ -1,5 +1,5 @@
 # Broadcom-Cards-macOS
-# Bienvenido al repositorio oficial de ReinierTutoriales para Soporte para tarjetas Broadcom en macOS
+# Bienvenido al repositorio oficial de ReinierTutoriales para Soporte de tarjetas Broadcom en macOS
 
 
 ## Apóyame con una donación 
