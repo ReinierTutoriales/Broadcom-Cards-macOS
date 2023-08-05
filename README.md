@@ -1,6 +1,6 @@
 # Soporte Broadcom para macOS
 # Bienvenido al repositorio oficial de ReinierTutoriales para Soporte de tarjetas Broadcom en macOS
-# Todo el credito del soporte es gracias a la [Guías de Dortania 👉 ](https://github.com/dortania/OpenCore-Legacy-Patcher/)
+# Todo el credito del soporte es gracias a la [Guía de Dortania👉](https://github.com/dortania/OpenCore-Legacy-Patcher/)
 
 
 ## La protección de integridad del sistema está establecida en 0x803
