@@ -3,7 +3,7 @@
 # Todo el credito del soporte es gracias a la [👉Guía de Dortania](https://github.com/dortania/OpenCore-Legacy-Patcher/)
 
 ## Dónde Comprar
-* Tarjeta PCI Wifi para MacOS: `FENVI T919` [👉💰Compr Aquí💰](https://amzn.to/3OOEQoa)
+- [x] Tarjeta PCI Wifi para MacOS: `FENVI T919` [👉💰Compr Aquí💰](https://amzn.to/3OOEQoa)
 
 
 ## La protección de integridad del sistema está establecida en 0x803
