@@ -13,9 +13,9 @@
 
 
 ## Deshabilitar AMFI.
- * Agragar en su boot-args `amfi=0x80` .
+- [x] Agragar en su boot-args `amfi=0x80` .
 ## Configurar Secure Boot Model
- *  `Secure Boot Model` selecciónalo en `Disabled`
+- [x]  `Secure Boot Model` selecciónalo en `Disabled`
 
 
 ## El siguiente kexts debes bloquearlo 
