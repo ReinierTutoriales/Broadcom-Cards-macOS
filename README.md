@@ -2,6 +2,9 @@
 # Bienvenido al repositorio oficial de ReinierTutoriales para Soporte de tarjetas Broadcom en macOS
 # Todo el credito del soporte es gracias a la [👉Guía de Dortania](https://github.com/dortania/OpenCore-Legacy-Patcher/)
 
+## Dónde Comprar
+* Tarjeta PCI Wifi para MacOS: FENVI T919 [👉Compr Aquí💵](https://amzn.to/3OOEQoa)
+
 
 ## La protección de integridad del sistema está establecida en 0x803
 * Para eso diríjase a `NVRAM` - `Add` - `7C436110-AB2A-4BBB-A880-FE41995C9F82`.
