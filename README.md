@@ -44,7 +44,7 @@
   * Cambie `00000000` por `03080000`
 
 
-## Deshabilitar AMFI.
+## Deshabilitar AMFI
 - [x] Agragar en su boot-args `amfi=0x80`
 ## Configurar Secure Boot Model
 - [x]  `Secure Boot Model` selecciónalo en `Disabled`
@@ -52,6 +52,6 @@
 
 
 
-## Para finalizar Finalmente.
+## Para finalizar Finalmente
 - [x] Necesitan reiniciar el sistema.
 - [x] Despues de este reinicio  necesitan ejecutar `OpenCore Legacy Patcher` [👉 0.6.9 Nightly ](https://github.com/dortania/OpenCore-Legacy-Patcher/pull/1077/)
