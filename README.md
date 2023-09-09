@@ -39,7 +39,7 @@
 ```
 
 ## La protección de integridad del sistema está establecida en 0x803
-- [x] Para eso diríjase a `NVRAM | Add | 7C436110-AB2A-4BBB-A880-FE41995C9F82`.
+- [x] Para eso diríjase a `NVRAM | Add | 7C436110-AB2A-4BBB-A880-FE41995C9F82`
   * Edite su `csr-active-config`
   * Cambie `00000000` por `03080000`
 
@@ -47,8 +47,8 @@
 ## Deshabilitar AMFI
 - [x] Agragar en su boot-args `amfi=0x80`
 ## Configurar Secure Boot Model
-- [x]  `Secure Boot Model` selecciónalo en `Disabled`
-      * Restablezca NVRAM o agregue `csr-active-config` Tipo `string`  a `NVRAM` - `Delete` - `7C436110-AB2A-4BBB-A880-FE41995C9F82` para asegurarse de que la nueva variable esté configurada.
+- [x]  `Secure Boot Model` selecciónalo en `Disabled`.
+  * Restablezca NVRAM o agregue `csr-active-config` Tipo `string`  a `NVRAM` - `Delete` - `7C436110-AB2A-4BBB-A880-FE41995C9F82` para asegurarse de que la nueva variable esté configurada.
 
 
 
