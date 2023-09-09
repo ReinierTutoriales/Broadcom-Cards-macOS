@@ -45,7 +45,7 @@
 
 
 ## Deshabilitar AMFI.
-- [x] Agragar en su boot-args `amfi=0x80` .
+- [x] Agragar en su boot-args `amfi=0x80`
 ## Configurar Secure Boot Model
 - [x]  `Secure Boot Model` selecciónalo en `Disabled`
       * Restablezca NVRAM o agregue `csr-active-config` Tipo `string`  a `NVRAM` - `Delete` - `7C436110-AB2A-4BBB-A880-FE41995C9F82` para asegurarse de que la nueva variable esté configurada.
