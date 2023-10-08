@@ -63,4 +63,4 @@
 - [x] Despues de este reinicio  necesitan ejecutar `OpenCore Legacy Patcher` [👉 1.0.1 ](https://github.com/dortania/OpenCore-Legacy-Patcher/releases)
 
 > [!IMPORTANT]
-> The only official source for this kext is the Actions tab of the `ChefKissInc/NootedRed` GitHub repository, provided entirely free of charge.
+> 
