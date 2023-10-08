@@ -51,7 +51,7 @@
 
 ## Deshabilitar AMFI
 - [x] Agragar en su boot-args `amfi=0x80`
-- [x] Si no decea utilizar `amfi=0x80` pudes agregar `AMFIPass.kext` y el boot-arg `-amfipassbeta` 
+- [x] Si no decea utilizar `amfi=0x80` pudes agregar `[AMFIPass.kext](https://github.com/dortania/OpenCore-Legacy-Patcher/blob/main/payloads/Kexts/Acidanthera/AMFIPass-v1.3.1-RELEASE.zip)` y el boot-arg `-amfipassbeta` 
 ## Configurar Secure Boot Model
 - [x]  `Secure Boot Model` selecciónalo en `Disabled`.
   * Restablezca NVRAM o agregue `csr-active-config` Tipo `string`  a `NVRAM` - `Delete` - `7C436110-AB2A-4BBB-A880-FE41995C9F82` para asegurarse de que la nueva variable esté configurada.
