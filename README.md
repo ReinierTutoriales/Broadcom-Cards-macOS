@@ -62,6 +62,6 @@
 - [x] Necesitan reiniciar el sistema.
 - [x] Despues de este reinicio  necesitan ejecutar `OpenCore Legacy Patcher` [👉 1.0.1 ](https://github.com/dortania/OpenCore-Legacy-Patcher/releases)
 
-> [!IMPORTANTE]
+> [!IMPORTANT]
 > Todo esto es gracias a los proyectos que han desarrollado la solución como son Dortania y Opencore Legacy Patcher y .
 > Estos proyectos permiten tener compatibilidad con Wireless Broadcom WiFi y Bluetooth en macOS 14 Sonoma .
