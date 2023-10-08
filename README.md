@@ -60,4 +60,4 @@
 
 ## Para finalizar Finalmente
 - [x] Necesitan reiniciar el sistema.
-- [x] Despues de este reinicio  necesitan ejecutar `OpenCore Legacy Patcher` [👉 0.6.9 Nightly ](https://github.com/dortania/OpenCore-Legacy-Patcher/pull/1077/)
+- [x] Despues de este reinicio  necesitan ejecutar `OpenCore Legacy Patcher` [👉 1.0.1 ](https://github.com/dortania/OpenCore-Legacy-Patcher/releases)
