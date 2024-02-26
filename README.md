@@ -16,7 +16,9 @@
   * Este Kext tiene un `Complemento` , `AirPortBrcmNIC_Injector.kext`asegúrese de que también se inyecte en su  `config.plist`
 - [x] `AMFIPass` [👉Descargar ](https://github.com/dortania/OpenCore-Legacy-Patcher/blob/main/payloads/Kexts/Acidanthera/AMFIPass-v1.4.0-RELEASE.zip)
 
-## Organice los kexts como se muestra a continuación y agregue MinKernel a su config.plist
+- [x] Organice los kexts como se muestra a continuación y agregue MinKernel a su config.plist
+      https://github.com/ReinierTutoriales/Broadcom-Cards-macOS/blob/main/IMG/oden-kexts-MinKernel.PNG
+
 
 
 
