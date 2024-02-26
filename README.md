@@ -16,6 +16,10 @@
   * Este Kext tiene un `Complemento` , `AirPortBrcmNIC_Injector.kext`asegúrese de que también se inyecte en su  `config.plist`
 - [x] `AMFIPass` [👉Descargar ](https://github.com/dortania/OpenCore-Legacy-Patcher/blob/main/payloads/Kexts/Acidanthera/AMFIPass-v1.4.0-RELEASE.zip)
 
+## Organice los kexts como se muestra a continuación y agregue MinKernel a su config.plist
+
+
+
 ## El siguiente kexts debes bloquearlo 
 - [x] `com.apple.iokit.IOSkywalkFamily`  [Referencia](https://github.com/dortania/OpenCore-Legacy-Patcher/blob/e21efa975c0cf228cb36e81a974bc6b4c27c7807/payloads/Config/config.plist#L1695-L1710/)
 - [x] Para eso diríjase a `Kernel | Block` y agrege el siguiente parche.
