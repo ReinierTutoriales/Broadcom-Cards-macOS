@@ -50,19 +50,15 @@
 </plist>
 
 ```
+## Configurar Secure Boot Model
+- [x]  `Secure Boot Model` selecciónalo en `Disabled`.
 
 ## La protección de integridad del sistema está establecida en 0x803
 - [x] Para eso diríjase a `NVRAM | Add | 7C436110-AB2A-4BBB-A880-FE41995C9F82`
   * Edite su `csr-active-config`
   * Cambie `00000000` por `03080000`
+- [x] Agragar en su boot-args  `amfi=0x80` `ipc_control_port_options=0` `gfxrst=1` `-brcmfxbeta`   
 - [x] Restablezca NVRAM o agregue `csr-active-config` Tipo `string`  a `NVRAM` - `Delete` - `7C436110-AB2A-4BBB-A880-FE41995C9F82` para asegurarse de que la nueva variable esté configurada.
-
-## Deshabilitar AMFI
-- [x] Agragar en su boot-args `amfi=0x80`
-- [x] Si utiliza AMFIPass.kext necesitara este argumento o boot-args `-amfipassbeta` y agregar [AMFIPass.kext](https://github.com/dortania/OpenCore-Legacy-Patcher/blob/main/payloads/Kexts/Acidanthera/AMFIPass-v1.4.0-RELEASE.zip) en su EFI.
-## Configurar Secure Boot Model
-- [x]  `Secure Boot Model` selecciónalo en `Disabled`.
-
 
 
 ## Para finalizar Finalmente
