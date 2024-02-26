@@ -59,7 +59,7 @@
   * Cambie `00000000` por `03080000`
 - [x] Agragar en su boot-args Opcionales
   * En caso de que no se pueden aplicar parches raíz  `amfi=0x80`
-  * En caso de que no se pueda conectarse a Wi-Fi después de aplicar parches raíz  `ipc_control_port_options=0`
+  * Resuelve el bloqueo de electrones con SIP abierto a partir de macOS 12.3 `ipc_control_port_options=0`
 - [x] Restablezca NVRAM o agregue `csr-active-config` Tipo `string`  a `NVRAM` - `Delete` - `7C436110-AB2A-4BBB-A880-FE41995C9F82` para asegurarse de que la nueva variable esté configurada.
   * Valor `1`  Tipo  `String`  valuado  `boot-args`
   * Valor `2`  Tipo  `String`  valuado  `csr-active-config`
