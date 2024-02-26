@@ -22,7 +22,7 @@
 
 
 
-## El siguiente kexts debes bloquearlo 
+## Bloquear IOSkywalkFamily 
 - [x] `com.apple.iokit.IOSkywalkFamily`  [Referencia](https://github.com/dortania/OpenCore-Legacy-Patcher/blob/e21efa975c0cf228cb36e81a974bc6b4c27c7807/payloads/Config/config.plist#L1695-L1710/)
 - [x] Para eso diríjase a `Kernel | Block` y agrege el siguiente parche.
 ```md
