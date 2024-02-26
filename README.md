@@ -64,6 +64,8 @@
   * Valor `1`  Tipo  `String`  valuado  `boot-args`
   * Valor `2`  Tipo  `String`  valuado  `csr-active-config`
 
+  ![NVRAM-Delete-7C436110-AB2A-4BBB-A880-FE41995C9F82](IMG/NVRAM-Delete-7C436110-AB2A-4BBB-A880-FE41995C9F82.PNG)
+
 
 ## Para finalizar Finalmente
 - [x] Necesitan reiniciar el sistema.
