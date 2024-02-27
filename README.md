@@ -58,11 +58,14 @@
   * Edite su `csr-active-config`
   * Cambie `00000000` por `03080000`
 - [x] Agragar en su boot-args Opcionales
+  * Para activar  `AMFIPass.kext`  en macOS 14 Sonoma  `-amfipassbeta`  
   * En caso de que no se pueden aplicar parches raíz  `amfi=0x80`
   * Resuelve el bloqueo de electrones con SIP abierto a partir de macOS 12.3 `ipc_control_port_options=0`
 - [x] Restablezca NVRAM o asegurarse de tener agregadas las siguientes variable en `NVRAM | Delete | 7C436110-AB2A-4BBB-A880-FE41995C9F82`.
   * Valor `1`  Tipo  `String`  valuado  `boot-args`
   * Valor `2`  Tipo  `String`  valuado  `csr-active-config`
+
+  ![NVRAM-Delete-7C436110-AB2A-4BBB-A880-FE41995C9F82](IMG/NVRAM-Delete-7C436110-AB2A-4BBB-A880-FE41995C9F82.PNG)
 
 
 ## Para finalizar Finalmente
