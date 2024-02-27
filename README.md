@@ -67,6 +67,9 @@
 
   ![NVRAM-Delete-7C436110-AB2A-4BBB-A880-FE41995C9F82](IMG/NVRAM-Delete-7C436110-AB2A-4BBB-A880-FE41995C9F82.PNG)
 
+  ![NVRAM-Delete-7C436110-AB2A-4BBB-A880-FE41995C9F82-propertree.PNG](IMG/NVRAM-Delete-7C436110-AB2A-4BBB-A880-FE41995C9F82-propertree.PNG)
+
+
 
 ## Para finalizar Finalmente
 - [x] Necesitan reiniciar el sistema.
