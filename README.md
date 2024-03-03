@@ -68,7 +68,7 @@
 - [x] Restablezca NVRAM o asegurarse de tener agregadas las siguientes variable en `NVRAM | Delete | 4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102`.
   * Valor `0`  Tipo  `String`  valuado  `revpatch`
 
-  ![NVRAM-Delete-7C436110-AB2A-4BBB-A880-FE41995C9F82-propertree.PNG](IMG/NVRAM-Delete-7C436110-AB2A-4BBB-A880-FE41995C9F82-propertree.PNG)
+  ![NVRAM-Delete-4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102.PNG](IMG/NVRAM-Delete-4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102.PNG)
 
 
 
