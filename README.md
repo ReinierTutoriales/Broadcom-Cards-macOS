@@ -63,6 +63,7 @@
   * Resuelve el bloqueo de electrones con SIP abierto a partir de macOS 12.3 `ipc_control_port_options=0`
 - [x] Para eso diríjase a `NVRAM | Add | 4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102`
   * Valor `revpatch`  Tipo  `String`  valuado  `sbvmm`
+  
   ![NVRAM-Add-4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102](IMG/NVRAM-Add-4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102.PNG)
 - [x] Restablezca NVRAM o asegurarse de tener agregadas las siguientes variable en `NVRAM | Delete | 4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102`.
   * Valor `0`  Tipo  `String`  valuado  `revpatch`
