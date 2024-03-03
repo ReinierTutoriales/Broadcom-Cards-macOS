@@ -61,9 +61,10 @@
   * Para activar  `AMFIPass.kext`  en macOS 14 Sonoma  `-amfipassbeta`  
   * En caso de que no se pueden aplicar parches raíz  `amfi=0x80`
   * Resuelve el bloqueo de electrones con SIP abierto a partir de macOS 12.3 `ipc_control_port_options=0`
-- [x] Restablezca NVRAM o asegurarse de tener agregadas las siguientes variable en `NVRAM | Delete | 7C436110-AB2A-4BBB-A880-FE41995C9F82`.
-  * Valor `1`  Tipo  `String`  valuado  `boot-args`
-  * Valor `2`  Tipo  `String`  valuado  `csr-active-config`
+- [x] Para eso diríjase a `NVRAM | Add | 4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102`
+  * Valor `revpatch`  Tipo  `String`  valuado  `sbvmm`
+- [x] Restablezca NVRAM o asegurarse de tener agregadas las siguientes variable en `NVRAM | Delete | 4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102`.
+  * Valor `0`  Tipo  `String`  valuado  `revpatch`
 
   ![NVRAM-Delete-7C436110-AB2A-4BBB-A880-FE41995C9F82](IMG/NVRAM-Delete-7C436110-AB2A-4BBB-A880-FE41995C9F82.PNG)
 
