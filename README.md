@@ -29,14 +29,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<array>
+<dict>
+	<key>0</key>
 	<dict>
 		<key>Arch</key>
 		<string>Any</string>
 		<key>Comment</key>
 		<string>Allow IOSkywalk Downgrade</string>
 		<key>Enabled</key>
-		<false/>
+		<true/>
 		<key>Identifier</key>
 		<string>com.apple.iokit.IOSkywalkFamily</string>
 		<key>MaxKernel</key>
@@ -46,8 +47,9 @@
 		<key>Strategy</key>
 		<string>Exclude</string>
 	</dict>
-</array>
+</dict>
 </plist>
+
 
 ```
 ## Configurar Secure Boot Model
