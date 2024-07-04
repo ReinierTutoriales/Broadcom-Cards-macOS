@@ -1,4 +1,4 @@
-# Soporte para Broadcom WiFi y Bluetooth macOS 14 Sonoma 
+# Soporte para Broadcom WiFi y Bluetooth macOS 15 Sequoia
 - Bienvenido al repositorio oficial de ReinierTutoriales para Soporte de tarjetas Broadcom en macOS
 - Todo el credito del soporte es gracias a la [👉OpenCore Legacy Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher/)
 
