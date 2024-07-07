@@ -12,13 +12,13 @@
 - [x] `IOSkywalk.kext`  [👉Descargar ](https://github.com/dortania/OpenCore-Legacy-Patcher/blob/main/payloads/Kexts/Wifi/IOSkywalkFamily-v1.1.0.zip)
 - [x] `IO80211FamilyLegacy.kext`  [👉Descargar ](https://github.com/dortania/OpenCore-Legacy-Patcher/blob/main/payloads/Kexts/Wifi/IO80211FamilyLegacy-v1.0.0.zip)
   * Este Kext tiene un `Complemento` , `AirPortBrcmNIC.kext`asegúrese de que también se inyecte en su `config.plist`
-- [x] `AirportBrcmFixup` [👉Descargar ](https://github.com/acidanthera/AirportBrcmFixup/releases)
+- [x] `AirportBrcmFixup` [👉Descargar ](https://github.com/dortania/build-repo/releases/download/AirportBrcmFixup-c85ca2d/AirportBrcmFixup-2.1.9-RELEASE.zip)
   * Este Kext tiene un `Complemento` , `AirPortBrcmNIC_Injector.kext`asegúrese de que también se inyecte en su  `config.plist`
 - [x] `AMFIPass 1.4.1` [👉Descargar ](https://github.com/dortania/OpenCore-Legacy-Patcher/blob/sequoia-development/payloads/Kexts/Acidanthera/AMFIPass-v1.4.1-RELEASE.zip)
 
 - [x] Organice los kexts como se muestra a continuación y agregue MinKernel a su config.plist
 
- ![Orden de Kexts y MinKernel](IMG/oden-kexts-MinKernel.PNG) 
+ ![Orden de Kexts y MinKernel](IMG/orden-kexts-MinKernel.PNG) 
 
 
 
@@ -60,7 +60,6 @@
   * Edite su `csr-active-config`
   * Cambie `00000000` por `03080000`
 - [x] Agragar en su boot-args Opcionales
-  * Para activar  `AMFIPass.kext`  en macOS 14 Sonoma  `-amfipassbeta`  
   * En caso de que no se pueden aplicar parches raíz  `amfi=0x80`
   * Resuelve el bloqueo de electrones con SIP abierto a partir de macOS 12.3 `ipc_control_port_options=0`
 - [x] Para eso diríjase a `NVRAM | Add | 4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102`
