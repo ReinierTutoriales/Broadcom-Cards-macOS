@@ -62,16 +62,11 @@
 - [x] Agragar en su boot-args Opcionales
   * En caso de que no se pueden aplicar parches raíz  `amfi=0x80`
   * Resuelve el bloqueo de electrones con SIP abierto a partir de macOS 12.3 `ipc_control_port_options=0`
-- [x] Para eso diríjase a `NVRAM | Add | 4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102`
-  * Valor `revpatch`  Tipo  `String`  valuado  `sbvmm`
-  
-  ![NVRAM-Add-4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102](IMG/NVRAM-Add-4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102.PNG)
-- [x] Restablezca NVRAM o asegurarse de tener agregadas las siguientes variable en `NVRAM | Delete | 4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102`.
-  * Valor `0`  Tipo  `String`  valuado  `revpatch`
 
-  ![NVRAM-Delete-4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102.PNG](IMG/NVRAM-Delete-4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102.PNG)
-
-
+## Para no tener que reiniciar la NVRAM
+- [x] Para eso diríjase a `NVRAM | Delete | 7C436110-AB2A-4BBB-A880-FE41995C9F82`
+  * Agregar dos valores `csr-active-config` y `boot-args` de tipo String, como se muestra en la imagen a continuación
+ ![Valores](IMG/Valores%20NVRAM-Delete-9F82.PNG) 
 
 ## Para finalizar Finalmente
 - [x] Necesitan reiniciar el sistema.
