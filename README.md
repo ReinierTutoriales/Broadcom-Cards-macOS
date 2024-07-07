@@ -18,7 +18,7 @@
 
 - [x] Organice los kexts como se muestra a continuación y agregue MinKernel a su config.plist
 
- ![Orden de Kexts y MinKernel](IMG/oden-kexts-MinKernel.PNG) 
+ ![Orden de Kexts y MinKernel](IMG/orden-kexts-MinKernel.PNG) 
 
 
 
