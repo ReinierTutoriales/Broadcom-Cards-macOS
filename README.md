@@ -66,6 +66,7 @@
 ## Para no tener que reiniciar la NVRAM
 - [x] Para eso diríjase a `NVRAM | Delete | 7C436110-AB2A-4BBB-A880-FE41995C9F82`
   * Agregar dos valores `csr-active-config` y `boot-args` de tipo String, como se muestra en la imagen a continuación
+ 
  ![Valores](IMG/Valores%20NVRAM-Delete-9F82.PNG) 
 
 ## Para finalizar Finalmente
