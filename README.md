@@ -77,4 +77,4 @@
 
 > [!IMPORTANT]
 > Todo esto es gracias a los proyectos que han desarrollado la solución como son [Dortania y Opencore Legacy Patcher](https://dortania.github.io/OpenCore-Legacy-Patcher/INSTALLER.html) .
-> Estos proyectos permiten tener compatibilidad con Wireless Broadcom WiFi y Bluetooth en macOS 14 Sonoma .
+> Estos proyectos permiten tener compatibilidad con Wireless Broadcom WiFi y Bluetooth en macOS 14 Sonoma y macOS 15 Sequoia.
