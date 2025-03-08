@@ -54,33 +54,38 @@ Haz clic en la imagen para ver el tutorial en YouTube:
 
 
 
-## Bloquear IOSkywalkFamily 
-- [x] `com.apple.iokit.IOSkywalkFamily`  [Referencia](https://github.com/dortania/OpenCore-Legacy-Patcher/blob/e21efa975c0cf228cb36e81a974bc6b4c27c7807/payloads/Config/config.plist#L1695-L1710/)
-- [x] Para eso diríjase a `Kernel | Block` y agrege el siguiente parche.
-```md
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>0</key>
-	<dict>
-		<key>Arch</key>
-		<string>Any</string>
-		<key>Comment</key>
-		<string>Allow IOSkywalk Downgrade</string>
-		<key>Enabled</key>
-		<true/>
-		<key>Identifier</key>
-		<string>com.apple.iokit.IOSkywalkFamily</string>
-		<key>MaxKernel</key>
-		<string></string>
-		<key>MinKernel</key>
-		<string>23.0.0</string>
-		<key>Strategy</key>
-		<string>Exclude</string>
-	</dict>
-</dict>
-</plist>
+## 🚫 **Bloquear IOSkywalkFamily**
+
+1. ✅ **`com.apple.iokit.IOSkywalkFamily`**  
+   [Referencia](https://github.com/dortania/OpenCore-Legacy-Patcher/blob/e21efa975c0cf228cb36e81a974bc6b4c27c7807/payloads/Config/config.plist#L1695-L1710/)
+
+2. ✅ **Pasos para bloquear:**
+   Dirígete a `Kernel | Block` y agrega el siguiente parche en tu `config.plist`:
+
+   ```xml
+   <?xml version="1.0" encoding="UTF-8"?>
+   <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+   <plist version="1.0">
+   <dict>
+      <key>0</key>
+      <dict>
+         <key>Arch</key>
+         <string>Any</string>
+         <key>Comment</key>
+         <string>Allow IOSkywalk Downgrade</string>
+         <key>Enabled</key>
+         <true/>
+         <key>Identifier</key>
+         <string>com.apple.iokit.IOSkywalkFamily</string>
+         <key>MaxKernel</key>
+         <string></string>
+         <key>MinKernel</key>
+         <string>23.0.0</string>
+         <key>Strategy</key>
+         <string>Exclude</string>
+      </dict>
+   </dict>
+   </plist>
 
 
 ```
