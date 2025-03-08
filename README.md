@@ -27,15 +27,28 @@ Haz clic en la imagen para ver el tutorial en YouTube:
 [![Video de Ayuda](https://img.youtube.com/vi/ZIEt9QYUu0Y/0.jpg)](https://www.youtube.com/watch?v=ZIEt9QYUu0Y)
 
 
-## Necesitan inyectar los siguientes kexts
-- [x] `IOSkywalk.kext`  [👉Descargar ](https://github.com/dortania/OpenCore-Legacy-Patcher/blob/main/payloads/Kexts/Wifi/IOSkywalkFamily-v1.1.0.zip)
-- [x] `IO80211FamilyLegacy.kext`  [👉Descargar ](https://github.com/dortania/OpenCore-Legacy-Patcher/blob/main/payloads/Kexts/Wifi/IO80211FamilyLegacy-v1.0.0.zip)
-  * Este Kext tiene un `Complemento` , `AirPortBrcmNIC.kext`asegúrese de que también se inyecte en su `config.plist`
-- [x] `AirportBrcmFixup` [👉Descargar ](https://github.com/dortania/build-repo/releases/download/AirportBrcmFixup-c85ca2d/AirportBrcmFixup-2.1.9-RELEASE.zip)
-  * Este Kext tiene un `Complemento` , `AirPortBrcmNIC_Injector.kext`asegúrese de que también se inyecte en su  `config.plist`
-- [x] `AMFIPass 1.4.1` [👉Descargar ](https://github.com/dortania/OpenCore-Legacy-Patcher/blob/sequoia-development/payloads/Kexts/Acidanthera/AMFIPass-v1.4.1-RELEASE.zip)
+## 💻 Necesitan inyectar los siguientes kexts
 
-- [x] Organice los kexts como se muestra a continuación y agregue MinKernel a su config.plist
+1. ✅ **`IOSkywalk.kext`**  
+   [👉 Descargar](https://github.com/dortania/OpenCore-Legacy-Patcher/blob/main/payloads/Kexts/Wifi/IOSkywalkFamily-v1.1.0.zip)
+
+2. ✅ **`IO80211FamilyLegacy.kext`**  
+   [👉 Descargar](https://github.com/dortania/OpenCore-Legacy-Patcher/blob/main/payloads/Kexts/Wifi/IO80211FamilyLegacy-v1.0.0.zip)  
+   *Este Kext tiene un complemento, `AirPortBrcmNIC.kext`. Asegúrese de que también se inyecte en su `config.plist`.*
+
+3. ✅ **`AirportBrcmFixup`**  
+   [👉 Descargar](https://github.com/dortania/build-repo/releases/download/AirportBrcmFixup-c85ca2d/AirportBrcmFixup-2.1.9-RELEASE.zip)  
+   *Este Kext tiene un complemento, `AirPortBrcmNIC_Injector.kext`. Asegúrese de que también se inyecte en su `config.plist`.*
+
+4. ✅ **`AMFIPass 1.4.1`**  
+   [👉 Descargar](https://github.com/dortania/OpenCore-Legacy-Patcher/blob/sequoia-development/payloads/Kexts/Acidanthera/AMFIPass-v1.4.1-RELEASE.zip)
+
+5. ✅ **Organización de los kexts**  
+   Organice los kexts como se muestra a continuación y agregue `MinKernel` a su `config.plist`.
+
+---
+
+**Nota:** Asegúrese de que todos los complementos mencionados también estén correctamente inyectados en su `config.plist`.
 
  ![Orden de Kexts y MinKernel](IMG/orden-kexts-MinKernel.PNG) 
 
