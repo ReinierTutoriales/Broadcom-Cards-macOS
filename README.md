@@ -50,7 +50,10 @@ Haz clic en la imagen para ver el tutorial en YouTube:
 
 **Nota:** Asegúrese de que todos los complementos mencionados también estén correctamente inyectados en su `config.plist`.
 
+## Orden de Kexts y MinKernel
+
 ![Imagen que muestra el orden de Kexts y MinKernel en el archivo config.plist](IMG/orden-kexts-MinKernel.PNG)
+
 
 
 ## 🚫 **Bloquear IOSkywalkFamily**
