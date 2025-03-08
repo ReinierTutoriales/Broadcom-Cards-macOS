@@ -15,8 +15,10 @@
 
 </p>
 
-## Dónde Comprar
-- [x] Tarjeta PCI Wifi para MacOS: `FENVI T919` [👉💰Compr Aquí💰](https://amzn.to/3OOEQoa)
+## 🛒 Dónde Comprar
+
+- ✅ **Tarjeta PCI Wifi para macOS:** _FENVI T919_  
+  [👉💰 Comprar Aquí 💰](https://amzn.to/3OOEQoa)
 
 ## 🎥 Video de Ayuda 👇
 
