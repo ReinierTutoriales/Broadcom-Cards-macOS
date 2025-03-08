@@ -83,7 +83,8 @@ Haz clic en la imagen para ver el tutorial en YouTube:
 2. ✅ **Pasos para bloquear:**
    Dirígete a `Kernel | Block` y agrega el siguiente parche en tu `config.plist`:
 
-```<?xml version="1.0" encoding="UTF-8"?>
+```
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <array>
