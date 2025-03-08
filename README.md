@@ -15,8 +15,12 @@
 ## Dónde Comprar
 - [x] Tarjeta PCI Wifi para MacOS: `FENVI T919` [👉💰Compr Aquí💰](https://amzn.to/3OOEQoa)
 
-## Video de Ayuda👇
-[![Alt text](https://img.youtube.com/vi/ZIEt9QYUu0Y/0.jpg)](https://www.youtube.com/watch?v=ZIEt9QYUu0Y)
+## 🎥 Video de Ayuda 👇
+
+Haz clic en la imagen para ver el tutorial en YouTube:
+
+[![Video de Ayuda](https://img.youtube.com/vi/ZIEt9QYUu0Y/0.jpg)](https://www.youtube.com/watch?v=ZIEt9QYUu0Y)
+
 
 ## Necesitan inyectar los siguientes kexts
 - [x] `IOSkywalk.kext`  [👉Descargar ](https://github.com/dortania/OpenCore-Legacy-Patcher/blob/main/payloads/Kexts/Wifi/IOSkywalkFamily-v1.1.0.zip)
