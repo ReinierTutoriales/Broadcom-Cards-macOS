@@ -126,10 +126,10 @@ Haz clic en la imagen para ver el tutorial en YouTube:
  
  ![Valores](IMG/Valores%20NVRAM-Delete-9F82.PNG) 
 
-## Para finalizar Finalmente
-- [x] Necesitan reiniciar el sistema.
-- [x] Despues de este reinicio  necesitan ejecutar `OpenCore Legacy Patcher` [👉 Repositorio ](https://github.com/dortania/OpenCore-Legacy-Patcher/releases)
+## ✅ Para finalizar
 
+1. **Reinicia el sistema.**
+2. Tras el reinicio, ejecuta **OpenCore Legacy Patcher** desde el [👉 Repositorio Oficial](https://github.com/dortania/OpenCore-Legacy-Patcher/releases).
 
 
 > **⚠️ [IMPORTANTE]**
