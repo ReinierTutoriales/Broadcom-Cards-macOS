@@ -94,7 +94,7 @@ Haz clic en la imagen para ver el tutorial en YouTube:
 		<key>Comment</key>
 		<string>Allow IOSkywalk Downgrade</string>
 		<key>Enabled</key>
-		<false/>
+		<true/>
 		<key>Identifier</key>
 		<string>com.apple.iokit.IOSkywalkFamily</string>
 		<key>MaxKernel</key>
