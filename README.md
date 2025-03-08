@@ -1,19 +1,38 @@
-# Soporte para Broadcom WiFi y Bluetooth macOS 15 Sequoia
-- Bienvenido al repositorio oficial de ReinierTutoriales para Soporte de tarjetas Broadcom en macOS
-- Todo el credito del soporte es gracias a la [👉OpenCore Legacy Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher/)
+# 🚨 Soporte para Broadcom WiFi y Bluetooth en macOS 15 Sequoia
+
+Bienvenido al repositorio oficial de **ReinierTutoriales** para el soporte de tarjetas **Broadcom** en **macOS 15 Sequoia**.
+
+Todo el crédito del soporte es gracias a la increíble labor de [👉 **OpenCore Legacy Patcher**](https://github.com/dortania/OpenCore-Legacy-Patcher/).
+
+---
+
+## 📱 Conéctate con nosotros
+
+Visita nuestras plataformas para más información y soporte:
 
 [![Foro - ReinierTutoriales](https://img.shields.io/badge/Foro-181818?style=for-the-badge&logo=forum&logoColor=white)](https://www.reiniertutoriales.com/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/ReinierTutoriales)
 [![PayPal](https://img.shields.io/badge/PayPal-0070ba?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/ReinierTutoriales)
+
+---
+
+## 📱 Redes Sociales y Comunidad
+
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ReinierTutoriales)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ReinierTutorial)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ReinierTutoriales)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/reiniertutoriales/)
 [![Discord](https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pQcCDBMn)
+
+---
+
+## ☕ Apóyanos
+
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/reiniertutoriales)
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/ReinierTutoriales)
 
 </p>
+
 
 ## 🛒 Dónde Comprar
 
