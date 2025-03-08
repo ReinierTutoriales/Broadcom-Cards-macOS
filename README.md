@@ -50,7 +50,7 @@ Haz clic en la imagen para ver el tutorial en YouTube:
 
 **Nota:** Asegúrese de que todos los complementos mencionados también estén correctamente inyectados en su `config.plist`.
 
- ![Orden de Kexts y MinKernel](IMG/orden-kexts-MinKernel.PNG) 
+![Orden de Kexts y MinKernel](IMG/orden-kexts-MinKernel.PNG){:width="600px"}
 
 
 
