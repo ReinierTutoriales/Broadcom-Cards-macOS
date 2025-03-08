@@ -145,8 +145,6 @@ Haz clic en la imagen para ver el tutorial en YouTube:
 © **ReinierTutoriales** | Todos los derechos reservados.  
 Creado con ❤️ para la comunidad tecnológica.
 
----
-
 *Creado con amor para la comunidad.*  
 *Mantente conectado, comparte y aprende.*  
 
