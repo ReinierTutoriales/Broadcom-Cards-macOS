@@ -138,3 +138,24 @@ Haz clic en la imagen para ver el tutorial en YouTube:
 > Todo esto es gracias a los proyectos que han desarrollado la solución, como **[Dortania](https://dortania.github.io/OpenCore-Legacy-Patcher/INSTALLER.html)** y **[OpenCore Legacy Patcher](https://dortania.github.io/OpenCore-Legacy-Patcher/INSTALLER.html)**.
 >
 > Estos proyectos permiten tener compatibilidad con **Wireless Broadcom WiFi** y **Bluetooth** en **macOS 14 Sonoma** y **macOS 15 Sequoia**.
+
+---
+
+## 🔒 Copyright
+
+© **ReinierTutoriales** | Todos los derechos reservados.  
+Creado con ❤️ para la comunidad tecnológica.
+
+[![ReinierTutoriales](https://img.shields.io/badge/ReinierTutoriales-181818?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ReinierTutoriales)  
+[![Foro](https://img.shields.io/badge/Foro-181818?style=for-the-badge&logo=forum&logoColor=white)](https://www.reiniertutoriales.com/)
+
+🔗 Conéctate con nosotros:  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/ReinierTutoriales)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ReinierTutorial)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/reiniertutoriales/)
+
+---
+
+*Creado con amor para la comunidad.*  
+*Mantente conectado, comparte y aprende.*  
+
