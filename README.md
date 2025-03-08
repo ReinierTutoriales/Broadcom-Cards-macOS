@@ -83,35 +83,33 @@ Haz clic en la imagen para ver el tutorial en YouTube:
 2. ✅ **Pasos para bloquear:**
    Dirígete a `Kernel | Block` y agrega el siguiente parche en tu `config.plist`:
 
-   ```xml
-   <?xml version="1.0" encoding="UTF-8"?>
-   <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-   <plist version="1.0">
-   <dict>
-      <key>0</key>
-      <dict>
-         <key>Arch</key>
-         <string>Any</string>
-         <key>Comment</key>
-         <string>Allow IOSkywalk Downgrade</string>
-         <key>Enabled</key>
-         <true/>
-         <key>Identifier</key>
-         <string>com.apple.iokit.IOSkywalkFamily</string>
-         <key>MaxKernel</key>
-         <string></string>
-         <key>MinKernel</key>
-         <string>23.0.0</string>
-         <key>Strategy</key>
-         <string>Exclude</string>
-      </dict>
-   </dict>
-   </plist>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>0</key>
+    <dict>
+      <key>Arch</key>
+      <string>Any</string>
+      <key>Comment</key>
+      <string>Allow IOSkywalk Downgrade</string>
+      <key>Enabled</key>
+      <true/>
+      <key>Identifier</key>
+      <string>com.apple.iokit.IOSkywalkFamily</string>
+      <key>MaxKernel</key>
+      <string></string>
+      <key>MinKernel</key>
+      <string>23.0.0</string>
+      <key>Strategy</key>
+      <string>Exclude</string>
+    </dict>
+  </dict>
+</plist>
 
-
-```
 ## Configurar Secure Boot Model
 - [x]  `Secure Boot Model` selecciónalo en `Disabled`.
+
 
 ## La protección de integridad del sistema está establecida en 0x803
 - [x] Para eso diríjase a `NVRAM | Add | 7C436110-AB2A-4BBB-A880-FE41995C9F82`
